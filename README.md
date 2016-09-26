@@ -35,4 +35,4 @@ To use proposed JS features not included into ES6, do this:
 
 ## Licence
 
-MIT
+MIT# demokit
