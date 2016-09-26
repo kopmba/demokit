@@ -1,0 +1,66 @@
+<md-dialog class="contact-dialog" aria-label="Create Contact">
+  <form>
+    <md-toolbar>
+      <div class="md-toolbar-tools">
+        <h2>{{ 'CONTACT.CREATE_CONTACT' | translate }}</h2>
+      </div>
+    </md-toolbar>
+    <md-dialog-content class="dialog-content">
+      <md-tabs md-dynamic-height md-border-bottom>
+        <md-tab label="{{ 'CONTACT.CREATE' | translate }}">
+          <md-content class="md-padding">
+            <div layout="row">
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.NAME' | translate }}</label>
+                <input ng-model="create.contact.name">
+              </md-input-container>
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.ALIAS' | translate }}</label>
+                <input ng-model="create.contact.alias">
+              </md-input-container>
+            </div>
+            <div layout="row">
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.PHONE' | translate }}</label>
+                <input ng-model="create.contact.phone">
+              </md-input-container>
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.CITY' | translate }}</label>
+                <input ng-model="create.contact.city">
+              </md-input-container>
+            </div>
+            <div layout="row">
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.EMAIL' | translate }}</label>
+                <input ng-model="create.contact.email">
+              </md-input-container>
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.WEBSITE' | translate }}</label>
+                <input ng-model="create.contact.website">
+              </md-input-container>
+            </div>
+          </md-content>
+        </md-tab>
+        <md-tab label="{{ 'CONTACT.INFO' | translate }}">
+          <md-content class="md-padding">
+            <h4 class="md-title">Module</h4>
+            <pre>src/components/contact/create.js</pre>
+            <h4 class="md-title">Controller</h4>
+            <pre>src/components/contact/create.controller.js</pre>
+            <h4 class="md-title">View</h4>
+            <pre>src/components/contact/create.html</pre>
+            </md-content>
+        </md-tab>
+      </md-tabs>
+    </md-dialog-content>
+    <md-dialog-actions layout="row">
+      <span flex></span>
+      <md-button ng-click="create.cancel()">
+        {{ 'CONTACT.CANCEL' | translate }}
+      </md-button>
+      <md-button ng-click="create.create()" style="margin-right:20px;">
+        {{ 'CONTACT.CREATE' | translate }}
+      </md-button>
+    </md-dialog-actions>
+  </form>
+</md-dialog>

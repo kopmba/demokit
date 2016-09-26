@@ -1,0 +1,545 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Keith Sweat",
+      "country": "Usa",
+      "picture": "http://bit.ly/2cNJxwU",
+      "music": "New Jack Swing, R&B",
+      "activeYears": "from 1985",
+      "favoriteTrack":"Twisted",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=cP4yAnbtDZE",
+      "lastalbums": [
+        {
+          "title": "Dress To Impress",
+          "year": "2016",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Til The Morning",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Ridin' Solo",
+          "year": "2010",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Just Me",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Sweat Hotel(Live)",
+          "year": "2007",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jill Scott",
+      "country": "Usa",
+      "picture": "http://bit.ly/2cwh28g",
+      "music": "Jazz, Soul, R&B",
+      "activeYears": "from 2000",
+      "favoriteTrack":"It's Love",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=zgITrumspb0",
+      "lastalbums": [
+        {
+          "title": "Woman",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "The Light of the Sun",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "The Real Thing: Words and Sounds Vol. 3",
+          "year": "2007",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Beautifully Human: Words and Sounds Vol. 2",
+          "year": "2004",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Who Is Jill Scott? Words and Sounds Vol. 1",
+          "year": "2000",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Jermaine Cole",
+      "country": "Usa",
+      "picture": "http://bit.ly/2d1fdPn",
+      "music": "Rap, Hip Hop, Politic Rap",
+      "activeYears": "from 2007",
+      "favoriteTrack":"Breakdown",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=N5iq2prp0Es",
+      "lastalbums": [
+        {
+          "title": "2014 Forest Hills Drive",
+          "year": "2014",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Born Sinner",
+          "year": "2013",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Cole World: The Sideline Story",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Monica Brown",
+      "country": "Usa",
+      "picture": "http://bit.ly/2crOta3",
+      "music": "R&B, Soul",
+      "activeYears": "from 1994",
+      "favoriteTrack":"Anchor",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=IgLZe2MWUmI",
+      "lastalbums": [
+        {
+          "title": "Code Red",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "New Life",
+          "year": "2012",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Still Standing",
+          "year": "2010",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "The Makings Of Me",
+          "year": "2006",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "All Eyez On Me/After The Storm",
+          "year": "2003",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chris Brown",
+      "country": "Usa",
+      "picture": "http://bit.ly/2cRicXp",
+      "music": "R&B, Hip Hop, Dance",
+      "activeYears": "from 2004",
+      "favoriteTrack":"Party Hard / Cadillac (Interlude)",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=mRcztN-nDMs",
+      "lastalbums": [
+        {
+          "title": "Royalty",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "X",
+          "year": "2014",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Fortune",
+          "year": "2012",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "F.A.M.E",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Graffiti",
+          "year": "2009",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Doc Gyneco",
+      "country": "France",
+      "picture": "http://bit.ly/2cWQmwJ",
+      "music": "Hip Hop, Rap Français, Zouk",
+      "activeYears": "from 1994",
+      "favoriteTrack":"Ma Salope à Moi",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=upMv1ZbYaQk",
+      "lastalbums": [
+        {
+          "title": "Peace Maker",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Un Homme Naturel/Doc Gynéco enregistre au quartier",
+          "year": "2006",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Solitaire",
+          "year": "2002",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Quality Street",
+          "year": "2001",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Liaisons dangereuses",
+          "year": "1998",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Coldplay",
+      "country": "United Kingdom",
+      "picture": "http://bit.ly/2d5T6VL",
+      "music": "Pop Rock",
+      "activeYears": "from 1996",
+      "favoriteTrack":"A Sky Full Of Stars",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=VPRjCeoBqrI",
+      "lastalbums": [
+        {
+          "title": "A Head Full Of Dreams",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Ghost Stories",
+          "year": "2014",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Mylo Xyloto",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Viva la Vida or Death and His Friends",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "X&Y",
+          "year": "2005",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tracy Chapman",
+      "country": "Usa",
+      "picture": "http://bit.ly/2cXDUP9",
+      "music": "Folk, Blues rock, Pop, Soul",
+      "activeYears": "from 1988",
+      "favoriteTrack":"Sing For You",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=J6rKdRQSmz4",
+      "lastalbums": [
+        {
+          "title": "Our Bright Future",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Where You Live",
+          "year": "2005",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Let It Rain",
+          "year": "2002",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Telling Stories",
+          "year": "2000",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "New Beginning",
+          "year": "1995",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Grace Decca",
+      "country": "Cameroon",
+      "picture": "http://bit.ly/2drm5Us",
+      "music": "Jazz, Makossa, Gospel",
+      "activeYears": "from 1989",
+      "favoriteTrack":"Mbonj'a Longe",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=h1pOZ0a9y84",
+      "lastalbums": [
+        {
+          "title": "Mouna",
+          "year": "2014",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Donne-moi un peu d’amour",
+          "year": "2001",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Appelle-moi Princesse",
+          "year": "1998",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Doï La Mulema",
+          "year": "1993",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Le Duo D.K",
+          "year": "1992",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Bob Marley",
+      "country": "Jamaïca",
+      "picture": "http://bit.ly/2dbeDiH",
+      "music": "Dub, Reggae, Ska, Rocksteady",
+      "activeYears": "1962–1981",
+      "favoriteTrack":"Is This Love",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=8JFRcCpx_jA",
+      "lastalbums": [
+        {
+          "title": "Uprising",
+          "year": "2010",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Survival",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Kaya",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Exodus",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Rastaman Vibration",
+          "year": "2003",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Koffi Olomide",
+      "country": "Congo DR",
+      "picture": "http://bit.ly/2d5Ut6N",
+      "music": "Ndombolo, Rumba, Soukouss love",
+      "activeYears": "from 1977",
+      "favoriteTrack":"Washington",
+      "favoriteTrackURI": "https://www.youtube.com/watch?v=OMy6AJuHwCE",
+      "lastalbums": [
+        {
+          "title": "13ième Apôtre",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Abracadabra",
+          "year": "2012",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Bord Ezanga Kombo",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Danger de Mort",
+          "year": "2006",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Monde Arabe",
+          "year": "2004",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    }
+  ],
+  "contacts":[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "city": "Gwenborough",
+      "phone": "1-770-736-8031",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "city": "Wisokyburgh",
+      "phone": "010-692-6593",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "city": "McKenziehaven",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "city": "South Elvis",
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "city": "Roscoeview",
+      "phone": "(254)954-1289",
+      "website": "demarco.info"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "city": "South Christy",
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "city": "Howemouth",
+      "phone": "210.067.6132",
+      "website": "elvis.io"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "city": "Aliyaview",
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "city": "Bartholomebury",
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "city": "Lebsackbury",
+      "phone": "024-648-3804",
+      "website": "ambrose.net"
+    }
+  ]
+}

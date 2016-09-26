@@ -1,0 +1,495 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Keith Sweat",
+      "country": "Usa",
+      "picture": "http://bit.ly/2cNJxwU",
+      "music": "New Jack Swing, R&B",
+      "activeYears": "from 1985",
+      "lastalbums": [
+        {
+          "title": "Dress To Impress",
+          "year": "2016",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Til The Morning",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Ridin' Solo",
+          "year": "2010",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Just Me",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Sweat Hotel(Live)",
+          "year": "2007",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nas",
+      "country": "Usa",
+      "picture": "http://bit.ly/2cRfBNn",
+      "music": "Rap, Jazz Rap, Politic Rap",
+      "activeYears": "from 1991",
+      "lastalbums": [
+        {
+          "title": "Unreleased",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Illmatic XX: 20th Anniversary",
+          "year": "2014",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Life Is Good",
+          "year": "2012",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Untitled",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Hip Hop Is Dead",
+          "year": "2006",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Monica Brown",
+      "country": "Usa",
+      "picture": "http://bit.ly/2crOta3",
+      "music": "R&B, Soul",
+      "activeYears": "from 1994",
+      "lastalbums": [
+        {
+          "title": "Code Red",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "New Life",
+          "year": "2012",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Still Standing",
+          "year": "2010",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "The Makings Of Me",
+          "year": "2006",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "All Eyez On Me/After The Storm",
+          "year": "2003",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chris Brown",
+      "country": "Usa",
+      "picture": "http://bit.ly/2cRicXp",
+      "music": "R&B, Hip Hop, Dance",
+      "activeYears": "from 2004",
+      "lastalbums": [
+        {
+          "title": "Royalty",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "X",
+          "year": "2014",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Fortune",
+          "year": "2012",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "F.A.M.E",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Graffiti",
+          "year": "2009",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Doc Gyneco",
+      "country": "France",
+      "picture": "http://bit.ly/2cWQmwJ",
+      "music": "Hip Hop, Rap Français, Zouk",
+      "activeYears": "from 1994",
+      "lastalbums": [
+        {
+          "title": "Peace Maker",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Un Homme Naturel/Doc Gynéco enregistre au quartier",
+          "year": "2006",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Solitaire",
+          "year": "2002",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Quality Street",
+          "year": "2001",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Liaisons dangereuses",
+          "year": "1998",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Coldplay",
+      "country": "United Kingdom",
+      "picture": "http://bit.ly/2d5T6VL",
+      "music": "Pop Rock",
+      "activeYears": "from 1996",
+      "lastalbums": [
+        {
+          "title": "A Head Full Of Dreams",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Ghost Stories",
+          "year": "2014",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Mylo Xyloto",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Viva la Vida or Death and His Friends",
+          "year": "2011",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "X&Y",
+          "year": "2005",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sade Adu",
+      "country": "Nigeria",
+      "picture": "http://bit.ly/2delCVz",
+      "music": "Jazz, Soul, Smooth jazz",
+      "activeYears": "from 1980",
+      "lastalbums": [
+        {
+          "title": "Soldier Of Love",
+          "year": "2010",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Lovers Rock",
+          "year": "2000",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Love Deluxe",
+          "year": "1992",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Strong Than Pride",
+          "year": "1988",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Promise",
+          "year": "1985",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Dave Koz",
+      "country": "Usa",
+      "picture": "http://bit.ly/2cAOGFw",
+      "music": "Smooth Jazz",
+      "activeYears": "from 1987",
+      "lastalbums": [
+        {
+          "title": "Hello Tomorrow",
+          "year": "2010",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Greatest Hits",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Masterpiece",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Memories of a Winter's Night",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Saxophonic",
+          "year": "2003",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Koffi Olomide",
+      "country": "Congo DR",
+      "picture": "http://bit.ly/2d5Ut6N",
+      "music": "Ndombolo, Rumba, Soukouss love",
+      "activeYears": "from 1977",
+      "lastalbums": [
+        {
+          "title": "13ième Apôtre",
+          "year": "2015",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Abracadabra",
+          "year": "2012",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Bord Ezanga Kombo",
+          "year": "2008",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Danger de Mort",
+          "year": "2006",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Monde Arabe",
+          "year": "2004",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Richard Bona",
+      "country": "Cameroon",
+      "picture": "http://bit.ly/2cFaHp2",
+      "music": "Jazz, World",
+      "activeYears": "from 1999 in solo",
+      "lastalbums": [
+        {
+          "title": "Heritage",
+          "year": "2016",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Bonafield",
+          "year": "2013",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "The Ten Shades of Blues",
+          "year": "2009",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Tiki",
+          "year": "2006",
+          "tracks": "",
+          "imgURL": ""
+        },
+        {
+          "title": "Munia: The Tale",
+          "year": "2003",
+          "tracks": "",
+          "imgURL": ""
+        }
+      ]
+    }
+  ],
+  "contacts":[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "city": "Gwenborough",
+      "phone": "1-770-736-8031",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "city": "Wisokyburgh",
+      "phone": "010-692-6593",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "city": "McKenziehaven",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "city": "South Elvis",
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "city": "Roscoeview",
+      "phone": "(254)954-1289",
+      "website": "demarco.info"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "city": "South Christy",
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "city": "Howemouth",
+      "phone": "210.067.6132",
+      "website": "elvis.io"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "city": "Aliyaview",
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "city": "Bartholomebury",
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "city": "Lebsackbury",
+      "phone": "024-648-3804",
+      "website": "ambrose.net"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<ion-view view-title="{{ 'HEADER.CONTACT' | translate }}">
+  <ion-content>
+    <ion-list>
+        <ion-item ng-repeat="contact in list.contacts">
+            <h3 >{{ contact.name }}</h3>
+            <h4>{{ 'CONTACT.EMAIL' | translate }}: {{ contact.email }}</h4>
+            <p>{{ 'CONTACT.WEBSITE' | translate }}: <a href="">www.{{ contact.website }}</a></p>
+        </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

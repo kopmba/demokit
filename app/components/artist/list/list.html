@@ -1,0 +1,49 @@
+<h3 class="md-headline">{{ 'HEADER.ARTIST' | translate }}</h3>
+<div ng-cloak>
+  <md-content>
+    <md-tabs md-dynamic-height md-border-bottom>
+      <md-tab label="{{ 'ARTIST.LIST' | translate }}">
+        <md-content class="md-padding">
+          <div layout-padding layout-wrap layout-fill style="padding-bottom: 32px;" ng-cloak>
+              <md-card ng-repeat="artist in list.artists" md-theme="{{ showDarkTheme ? 'dark-blue' : 'default' }}" md-theme-watch>
+                <md-card-title>
+                  <md-card-title-text>
+                    <span class="md-headline">{{artist.name}}</span>
+                    <span class="md-subhead">{{artist.country}}</span>
+                    <span class="md-subhead">{{artist.music}}</span>
+                    <span class="md-subhead">Active {{artist.activeYears}}</span>
+                    <span class="md-subhead">
+                      Favorite Track: <a target="_blank" href="{{artist.favoriteTrackURI}}">{{artist.favoriteTrack}}</a>
+                    </span>
+                  </md-card-title-text>
+                  <md-card-title-media>
+                    <div class="md-media-md card-media">
+                      <img src="{{artist.picture}}" alt="">
+                    </div>
+                  </md-card-title-media>
+                </md-card-title>
+                <md-card-actions layout="row" layout-align="end center">
+                  <md-button>
+                    {{ 'ARTIST.LAST_ALBUMS' | translate }}
+                  </md-button>
+                  <md-button ng-click="list.edit($event, artist.id)">
+                    <md-icon aria-label="create">create</md-icon>
+                    {{ 'ARTIST.EDIT' | translate }}
+                  </md-button>
+                  <md-button class="md-warn" ng-click="list.delete($event, artist)">
+                    <md-icon aria-label="delete">delete</md-icon>
+                      {{ 'ARTIST.REMOVE' | translate }}
+                  </md-button>
+                </md-card-actions>
+              </md-card>
+          </div>
+        </md-content>
+      </md-tab>
+      <md-tab label="{{ 'ARTIST.INFO' | translate }}">
+        <md-content class="md-padding">
+          This state not developed yet contains all info about a selected artist.
+        </md-content>
+      </md-tab>
+    </md-tabs>
+  </md-content>
+</div>

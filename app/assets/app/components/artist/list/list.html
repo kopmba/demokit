@@ -1,0 +1,16 @@
+<ion-view view-title="{{ 'HEADER.ARTIST' | translate }}">
+  <ion-content>
+    <ion-list>
+        <ion-item ng-repeat="artist in list.artists">
+            <div class="item item-avatar">
+                <img src="{{artist.picture}}">
+                <h2>{{artist.name}}</h2>
+                <p>{{artist.country}}</p>
+                <p>{{artist.music}}</p>
+                <p>Active {{artist.activeYears}}</p>
+                <p><a target="_blank" href="{{artist.favoriteTrackURI}}">{{artist.favoriteTrack}}</a></p>
+            </div>
+        </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

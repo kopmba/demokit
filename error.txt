@@ -1,0 +1,13 @@
+path.js:8
+    throw new TypeError('Path must be a string. Received ' +
+    ^
+
+TypeError: Path must be a string. Received undefined
+
+upgrade to babel-core : 6.10.4
+
+import browser from 'browser-sync';
+^^^^^^
+
+SyntaxError: Unexpected reserved word
+Be sure to have .babelrc defined with presets

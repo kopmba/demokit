@@ -1,0 +1,19 @@
+{
+    "legends": [
+        {
+            "id": 1,
+            "name": "",
+            "country": "",
+            "continent": "",
+            "pictureURL": "",
+            "clubs": [
+                {
+                    "name": "",
+                    "year": "",
+                    "matches": "",
+                    "goals": ""
+                }
+            ]
+        }
+    ]
+}

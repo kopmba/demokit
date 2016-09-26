@@ -1,0 +1,66 @@
+<md-dialog class="contact-dialog" aria-label="Edit Contact">
+  <form>
+    <md-toolbar>
+      <div class="md-toolbar-tools">
+        <h2>{{ 'CONTACT.EDIT_CONTACT' | translate }}</h2>
+      </div>
+    </md-toolbar>
+    <md-dialog-content class="dialog-content">
+      <md-tabs md-dynamic-height md-border-bottom>
+        <md-tab label="{{ 'CONTACT.EDIT' | translate }}">
+          <md-content class="md-padding">
+            <div layout="row">
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.NAME' | translate }}</label>
+                <input ng-model="edit.contact.name">
+              </md-input-container>
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.ALIAS' | translate }}</label>
+                <input ng-model="edit.contact.alias">
+              </md-input-container>
+            </div>
+            <div layout="row">
+              <md-input-container class="md-block" flex>
+                <label>{{ 'CONTACT.PHONE' | translate }}</label>
+                <input ng-model="edit.contact.phone">
+              </md-input-container>
+              <md-input-container class="md-block">
+                <label>{{ 'CONTACT.CITY' | translate }}</label>
+                <input ng-model="edit.contact.city">
+              </md-input-container>
+            </div>
+            <div layout="row">
+              <md-input-container class="md-block">
+                <label>{{ 'CONTACT.EMAIL' | translate }}</label>
+                <input ng-model="edit.contact.email">
+              </md-input-container>
+              <md-input-container class="md-block">
+                <label>{{ 'CONTACT.WEBSITE' | translate }}</label>
+                <input ng-model="edit.contact.website">
+              </md-input-container>
+            </div>
+          </md-content>
+        </md-tab>
+        <md-tab label="{{ 'CONTACT.INFO' | translate }}">
+          <md-content class="md-padding">
+            <h4 class="md-title">Module</h4>
+            <pre>src/components/contact/edit.js</pre>
+            <h4 class="md-title">Controller</h4>
+            <pre>src/components/contact/edit.controller.js</pre>
+            <h4 class="md-title">View</h4>
+            <pre>src/components/contact/edit.html</pre>
+            </md-content>
+        </md-tab>
+      </md-tabs>
+    </md-dialog-content>
+    <md-dialog-actions layout="row">
+      <span flex></span>
+      <md-button ng-click="edit.cancel()">
+        {{ 'CONTACT.CANCEL' | translate }}
+      </md-button>
+      <md-button ng-click="edit.edit()" style="margin-right:20px;">
+        {{ 'CONTACT.EDIT' | translate }}
+      </md-button>
+    </md-dialog-actions>
+  </form>
+</md-dialog>
