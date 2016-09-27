@@ -1,4 +1,4 @@
-# Brunch + Gulp + Webpack + Babel/ES6 + Angular Material + Ionic
+# Readme
 
 This is a project using only one Angular code for web and ionic
 
