@@ -1,4 +1,4 @@
-# Readme
+# Gulp + Webpack + Brunch
 
 This is a project using only one Angular code for web and ionic
 
@@ -37,7 +37,10 @@ To use proposed JS features not included into ES6, do this:
 
 MIT
 
-Referneces:
+## Demo
+http://smkitapp.herokuapp.com/
+
+## References
 
 https://github.com/AngularClass/NG6-starter
 
